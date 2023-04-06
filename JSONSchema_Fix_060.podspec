@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = 'JSONSchema_Fix_060'
-  spec.version = '0.6.1'
+  spec.version = '0.6.2'
   spec.summary = 'JSON Schema validator in Swift.'
   spec.module_name = 'JSONSchema'
   spec.homepage = 'https://github.com/kylef/JSONSchema.swift'
